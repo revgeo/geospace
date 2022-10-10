@@ -1,0 +1,12 @@
+Ramsey
+Geoffrey
+Salaried
+65000
+Sliptyback
+Winglebert
+Salaried
+40000
+Dang
+Dingly
+Hourly
+25
