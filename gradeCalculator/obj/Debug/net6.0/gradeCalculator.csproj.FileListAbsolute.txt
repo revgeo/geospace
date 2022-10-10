@@ -1,0 +1,30 @@
+C:\Users\GRamsey\Desktop\NeDL\gradeCalculator\bin\Debug\net6.0\gradeCalculator.exe
+C:\Users\GRamsey\Desktop\NeDL\gradeCalculator\bin\Debug\net6.0\gradeCalculator.deps.json
+C:\Users\GRamsey\Desktop\NeDL\gradeCalculator\bin\Debug\net6.0\gradeCalculator.runtimeconfig.json
+C:\Users\GRamsey\Desktop\NeDL\gradeCalculator\bin\Debug\net6.0\gradeCalculator.dll
+C:\Users\GRamsey\Desktop\NeDL\gradeCalculator\bin\Debug\net6.0\ref\gradeCalculator.dll
+C:\Users\GRamsey\Desktop\NeDL\gradeCalculator\bin\Debug\net6.0\gradeCalculator.pdb
+C:\Users\GRamsey\Desktop\NeDL\gradeCalculator\obj\Debug\net6.0\gradeCalculator.csproj.AssemblyReference.cache
+C:\Users\GRamsey\Desktop\NeDL\gradeCalculator\obj\Debug\net6.0\gradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRamsey\Desktop\NeDL\gradeCalculator\obj\Debug\net6.0\gradeCalculator.AssemblyInfoInputs.cache
+C:\Users\GRamsey\Desktop\NeDL\gradeCalculator\obj\Debug\net6.0\gradeCalculator.AssemblyInfo.cs
+C:\Users\GRamsey\Desktop\NeDL\gradeCalculator\obj\Debug\net6.0\gradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\GRamsey\Desktop\NeDL\gradeCalculator\obj\Debug\net6.0\gradeCalculator.dll
+C:\Users\GRamsey\Desktop\NeDL\gradeCalculator\obj\Debug\net6.0\ref\gradeCalculator.dll
+C:\Users\GRamsey\Desktop\NeDL\gradeCalculator\obj\Debug\net6.0\gradeCalculator.pdb
+C:\Users\GRamsey\Desktop\NeDL\gradeCalculator\obj\Debug\net6.0\gradeCalculator.genruntimeconfig.cache
+C:\Users\GRamsey\OneDrive - DPL O365\NeDL\gradeCalculator\bin\Debug\net6.0\gradeCalculator.exe
+C:\Users\GRamsey\OneDrive - DPL O365\NeDL\gradeCalculator\bin\Debug\net6.0\gradeCalculator.deps.json
+C:\Users\GRamsey\OneDrive - DPL O365\NeDL\gradeCalculator\bin\Debug\net6.0\gradeCalculator.runtimeconfig.json
+C:\Users\GRamsey\OneDrive - DPL O365\NeDL\gradeCalculator\bin\Debug\net6.0\gradeCalculator.dll
+C:\Users\GRamsey\OneDrive - DPL O365\NeDL\gradeCalculator\bin\Debug\net6.0\gradeCalculator.pdb
+C:\Users\GRamsey\OneDrive - DPL O365\NeDL\gradeCalculator\obj\Debug\net6.0\gradeCalculator.csproj.AssemblyReference.cache
+C:\Users\GRamsey\OneDrive - DPL O365\NeDL\gradeCalculator\obj\Debug\net6.0\gradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRamsey\OneDrive - DPL O365\NeDL\gradeCalculator\obj\Debug\net6.0\gradeCalculator.AssemblyInfoInputs.cache
+C:\Users\GRamsey\OneDrive - DPL O365\NeDL\gradeCalculator\obj\Debug\net6.0\gradeCalculator.AssemblyInfo.cs
+C:\Users\GRamsey\OneDrive - DPL O365\NeDL\gradeCalculator\obj\Debug\net6.0\gradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\GRamsey\OneDrive - DPL O365\NeDL\gradeCalculator\obj\Debug\net6.0\gradeCalculator.dll
+C:\Users\GRamsey\OneDrive - DPL O365\NeDL\gradeCalculator\obj\Debug\net6.0\refint\gradeCalculator.dll
+C:\Users\GRamsey\OneDrive - DPL O365\NeDL\gradeCalculator\obj\Debug\net6.0\gradeCalculator.pdb
+C:\Users\GRamsey\OneDrive - DPL O365\NeDL\gradeCalculator\obj\Debug\net6.0\gradeCalculator.genruntimeconfig.cache
+C:\Users\GRamsey\OneDrive - DPL O365\NeDL\gradeCalculator\obj\Debug\net6.0\ref\gradeCalculator.dll
