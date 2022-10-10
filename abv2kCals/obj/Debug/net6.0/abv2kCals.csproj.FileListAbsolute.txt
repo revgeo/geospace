@@ -1,0 +1,15 @@
+C:\Users\GRamsey\Desktop\NeDL\abv2kCals\bin\Debug\net6.0\abv2kCals.exe
+C:\Users\GRamsey\Desktop\NeDL\abv2kCals\bin\Debug\net6.0\abv2kCals.deps.json
+C:\Users\GRamsey\Desktop\NeDL\abv2kCals\bin\Debug\net6.0\abv2kCals.runtimeconfig.json
+C:\Users\GRamsey\Desktop\NeDL\abv2kCals\bin\Debug\net6.0\abv2kCals.dll
+C:\Users\GRamsey\Desktop\NeDL\abv2kCals\bin\Debug\net6.0\ref\abv2kCals.dll
+C:\Users\GRamsey\Desktop\NeDL\abv2kCals\bin\Debug\net6.0\abv2kCals.pdb
+C:\Users\GRamsey\Desktop\NeDL\abv2kCals\obj\Debug\net6.0\abv2kCals.csproj.AssemblyReference.cache
+C:\Users\GRamsey\Desktop\NeDL\abv2kCals\obj\Debug\net6.0\abv2kCals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRamsey\Desktop\NeDL\abv2kCals\obj\Debug\net6.0\abv2kCals.AssemblyInfoInputs.cache
+C:\Users\GRamsey\Desktop\NeDL\abv2kCals\obj\Debug\net6.0\abv2kCals.AssemblyInfo.cs
+C:\Users\GRamsey\Desktop\NeDL\abv2kCals\obj\Debug\net6.0\abv2kCals.csproj.CoreCompileInputs.cache
+C:\Users\GRamsey\Desktop\NeDL\abv2kCals\obj\Debug\net6.0\abv2kCals.dll
+C:\Users\GRamsey\Desktop\NeDL\abv2kCals\obj\Debug\net6.0\ref\abv2kCals.dll
+C:\Users\GRamsey\Desktop\NeDL\abv2kCals\obj\Debug\net6.0\abv2kCals.pdb
+C:\Users\GRamsey\Desktop\NeDL\abv2kCals\obj\Debug\net6.0\abv2kCals.genruntimeconfig.cache
